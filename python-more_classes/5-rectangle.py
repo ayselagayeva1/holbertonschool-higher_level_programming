@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Defines a Rectangle width, height, area, perimeter,string representations."""
+"""Defines a Rectangle width,height,area, perimeter,string representations."""
 
 
 
