@@ -1,15 +1,14 @@
 #!/usr/bin/python3
 """
 1-write_file module
-
-This module defines a function that writes a UTF-8 string to a text file
-and returns the number of characters written.
+defines a ftion that writes a UTF-8 string to a text file
+and ret the number of characters written.
 """
 
 
 def write_file(filename="", text=""):
     """
-    Writes a string to a UTF-8 text file and returns the number of characters written.
+    text file and returns the number of characters written.
 
     Args:
         filename (str): The name of the file to write to.
