@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
-0-read_file module
-This module defines a function that reads a UTF-8 text file and prints its content to stdout.
+gh
+function that reads a UTF-8 text file and prints its content to stdout.
 """
 
 
